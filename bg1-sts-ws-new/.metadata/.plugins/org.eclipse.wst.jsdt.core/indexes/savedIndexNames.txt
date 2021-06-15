@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Enzo\Desktop\bG1\bg1-sts-ws-new\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+227256891.index
+226302404.index
+1080505100.index
+828030390.index
+4155010935.index
