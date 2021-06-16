@@ -1,23 +1,23 @@
 
-l	java:S125@"<This block of commented-out lines of code should be removed.(™¯•ÿÿÿÿÿHšRMAJORZ
-CODE_SMELL
-}
-java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(ã£¸Üüÿÿÿÿ8ºÔï /H,RCRITICALZVULNERABILITY
 j
-java:S3655%">Call "productOptional.isPresent()" before accessing the value.(éÅÙ—8üÖ…ğ /H…RMAJORZBUG
-›
-java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "productsList".(–ì‚›ûÿÿÿÿ8¸§îï /HKRMINORZ
-CODE_SMELL
-’
-java:S1488,"`Immediately return this expression instead of assigning it to the temporary variable "product1".(š¬§8ëÇİï /H@RMINORZ
-CODE_SMELL
-˜
-java:S14885"`Immediately return this expression instead of assigning it to the temporary variable "product2".(ÁêË÷ıÿÿÿÿ8ôˆ›ğ /H£RMINORZ
-CODE_SMELL
+java:S3655%">Call "productOptional.isPresent()" before accessing the value.(éÅÙ—8üÖ…ğ /H¦RMAJORZBUG
 ~
-java:S46841"@Replace this persistent entity with a simple POJO or DTO object.(ô²‚úÿÿÿÿ8ôˆ›ğ /H¦RCRITICALZVULNERABILITY
-c
-java:S36552"7Call "Optional#isPresent()" before accessing the value.(ì¡ş8£ß ğ /H½RMAJORZBUG
+java:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(ã£¸Üüÿÿÿÿ8ºÔï /H§RCRITICALZVULNERABILITY
+~
+java:S46841"@Replace this persistent entity with a simple POJO or DTO object.(ô²‚úÿÿÿÿ8ôˆ›ğ /H¨RCRITICALZVULNERABILITY
 ’
-java:S1488%"_Immediately return this expression instead of assigning it to the temporary variable "product".(éÅÙ—8ÕÍ†ğ /HRMINORZ
+java:S1488%"_Immediately return this expression instead of assigning it to the temporary variable "product".(éÅÙ—8ÕÍ†ğ /H©RMINORZ
+CODE_SMELL
+“
+java:S1488,"`Immediately return this expression instead of assigning it to the temporary variable "product1".(š¬§8ëÇİï /HªRMINORZ
+CODE_SMELL
+c
+java:S36552"7Call "Optional#isPresent()" before accessing the value.(ì¡ş8£ß ğ /H«RMAJORZBUG
+˜
+java:S14885"`Immediately return this expression instead of assigning it to the temporary variable "product2".(ÁêË÷ıÿÿÿÿ8ôˆ›ğ /H¬RMINORZ
+CODE_SMELL
+l	java:S125@"<This block of commented-out lines of code should be removed.(™¯•ÿÿÿÿÿH­RMAJORZ
+CODE_SMELL
+œ
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "productsList".(–ì‚›ûÿÿÿÿ8¸§îï /H²RMINORZ
 CODE_SMELL

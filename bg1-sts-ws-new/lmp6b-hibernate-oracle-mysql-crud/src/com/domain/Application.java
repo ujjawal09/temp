@@ -18,10 +18,10 @@ public class Application {
 		Application application = new Application();
 //		application.saveProduct();
 		application.getProducts();
-		application.updateProduct("P02", "mongoose");
-		application.getProducts();
-		application.deleteProduct("P02");
-		application.getProducts();
+//		application.updateProduct("P02", "mongoose");
+//		application.getProducts();
+//		application.deleteProduct("P02");
+//		application.getProducts();
 	}
 
 	private void saveProduct() {
@@ -34,10 +34,10 @@ public class Application {
 	}
 
 	private void getProducts() {
-		session.beginTransaction();
+//		session.beginTransaction();
 		Query selectQuery = session.createQuery("FROM Product");
 		List<Product> Products = (List<Product>) selectQuery.list();
-		session.getTransaction().commit();
+//		session.getTransaction().commit();
 		for (Product Product : Products) {
 			System.out.println(Product);
 		}
