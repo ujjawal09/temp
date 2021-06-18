@@ -13,6 +13,7 @@ org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter=true
 org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter=true
 org.eclipse.jdt.internal.ui.navigator.layout=2
 org.eclipse.jdt.internal.ui.navigator.librariesnode=true
+org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter=true
 org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter=true
 org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter=true
 org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter=true
