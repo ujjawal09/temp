@@ -1,0 +1,13 @@
+package dom;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Ld9aSbSecurityJwtJpaMysqlApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Ld9aSbSecurityJwtJpaMysqlApplication.class, args);
+	}
+
+}
